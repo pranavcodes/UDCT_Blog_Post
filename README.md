@@ -1,5 +1,7 @@
 ## Data Science Blog Post
 
+You can read my Medium Blog Post in [here](https://medium.com/@pranavmishraji/developers-and-their-job-satisfaction-fed30bff096b).
+
 ### Libraries
 To be able to run this notebook, you need to install these libraries:
 
